@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 
-## Group 1
+## Javascript
 
 * [Javascript](group-1/javascript.md)
 
