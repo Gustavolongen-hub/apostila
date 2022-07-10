@@ -4,12 +4,12 @@
 
 ## Javascript
 
-* [Javascript](group-1/javascript.md)
+* [Javascript](Javascript/javascript.md)
 
-## Group 2
+## python
 
-* [Python](group-2/python.md)
+* [Python](python/python.md)
 
-## Group 3
+## solidty
 
-* [Solidty](group-3/solidty.md)
+* [Solidty](solidty/solidty.md)
