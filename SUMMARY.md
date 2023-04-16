@@ -1,15 +1,10 @@
 # Table of contents
 
-* [Introdução](README.md)
+## Solidity
 
-## Javascript
+* [Introdução à linguagem Solidity](README.md)
+* [Page 2](solidity/page-2.md)
 
-* [Javascript](Javascript/javascript.md)
+***
 
-## python
-
-* [Python](python/python.md)
-
-## solidty
-
-* [Solidty](solidty/solidty.md)
+* [Page 1](page-1.md)
